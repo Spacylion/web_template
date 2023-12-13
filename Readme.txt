@@ -1,6 +1,7 @@
-Thanks for downloading this theme!
+commands
+git init
+git add origin https://github.com/Spacylion/web_template.git
+git add .
+git commit -m "some text"
+git push origin master
 
-Theme Name: Reveal
-Theme URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
